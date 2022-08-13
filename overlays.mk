@@ -82,7 +82,8 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidVividThemeOverlay
+    AndroidBlackThemeOverlay \
+    AndroidTintThemeOverlay
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \

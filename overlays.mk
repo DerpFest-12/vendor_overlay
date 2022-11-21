@@ -89,6 +89,8 @@ PRODUCT_PACKAGES += \
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \
+    AcherusSubsSignalGOverlay \
+    AcherusSubsSignalTOverlay \
     StrokeSignalOverlay \
     SneakySignalOverlay \
     XperiaSignalOverlay \
@@ -96,10 +98,13 @@ PRODUCT_PACKAGES += \
     WavySignalOverlay \
     RoundSignalOverlay \
     InsideSignalOverlay \
+    LivSignalOverlay \
     BarsSignalOverlay
 
 # Wi-Fi Icons
 PRODUCT_PACKAGES += \
+    AcherusSubsWifiGOverlay \
+    AcherusSubsWifiTOverlay \
     StrokeWiFiOverlay \
     SneakyWiFiOverlay \
     XperiaWiFiOverlay \
@@ -107,6 +112,7 @@ PRODUCT_PACKAGES += \
     WavyWiFiOverlay \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
+    LivWifiOverlay \
     BarsWiFiOverlay \
     WeedWiFiOverlay \
     DoraWiFiOverlay \
